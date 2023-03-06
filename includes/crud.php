@@ -5,7 +5,7 @@
  * @Package Database
  */
 
-define('DOMAIN_URL', 'http://bigbillion.graymatterworks.com/'); /* chnage to your domain here - don't forget to add forward slash at the end of the URL like this "/" */
+define('DOMAIN_URL', 'https://matka247.graymatterworks.com/'); /* chnage to your domain here - don't forget to add forward slash at the end of the URL like this "/" */
 define('ALLOW_MODIFICATION', 1);
 define('JWT_SECRET_KEY', '12345678'); /* chnage to your secret key here set it to anything you like*/
 date_default_timezone_set("Asia/Calcutta");
@@ -28,9 +28,9 @@ class Database
 
     //test server db
     private $db_host = "localhost"; 
-    private $db_user = "u743445510_bigbillion";  
-    private $db_pass = "Bigbillion@2023";  
-    private $db_name = "u743445510_bigbillion";    
+    private $db_user = "u743445510_matka247";  
+    private $db_pass = "Matka247";  
+    private $db_name = "u743445510_matka247";    
 
 
     /*
